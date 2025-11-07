@@ -1,6 +1,6 @@
 p{
-    color: blue;
-    text-align: center;
+    color: rgb(220, 36, 36);
+    font-size: large;
 }
 .paragraph{
     color: rgb(255, 0, 0);
@@ -8,4 +8,45 @@ p{
 }
 #jk{
     font-size: 25px;
+}
+/* div{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(241, 189, 20);
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+    display: inline-block;
+} */
+.box1{
+    background-color: aqua;
+    padding: 40px;
+    margin: 20px;
+    border: 4px dashed red;
+}
+.box2{
+    background-color: lightgreen;
+    padding: 50px;
+    margin: 20px;
+    border: 3px dotted blue;
+}
+.box3{
+    background-color: lightpink;
+    padding: 60px;
+    margin: 20px;
+    border: 5px double green;
+}
+#text{
+    font-size: 20px;
+    color: purple;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+.box{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 5px;
+    margin: 45px;
+    width: 1000px;
 }
