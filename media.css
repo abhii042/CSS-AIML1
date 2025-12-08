@@ -3,3 +3,14 @@
     width: 1000px;
     background-color: lightblue;
 }
+@media (max-width: 1024px) {
+    .box {
+        background-color: lightgreen;
+    }
+}
+@media (max-width: 768px) {
+    .box {
+        width: 600px;
+        background-color: lightcoral;
+    }
+}
